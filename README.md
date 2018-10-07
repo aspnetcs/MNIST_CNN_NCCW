@@ -4,7 +4,7 @@ Application of a CNN to MNIST using MATLAB. One half of a coursework comparing a
 In the experiment I performed grid searches, using 10% of the dataset, first to explore the impact of including/
 excluding batch normalisation and max-pooling layers, and then to look into the effects of changing the depth and
 number of filters in the network. I then selected the best performing parameter combinations and trained a final 
-network on the full dataset to compare to my partners SVM model.
+network on the full dataset to compare to my partner's SVM model.
 
 
 ## CNN Scripts(to be run in order):
